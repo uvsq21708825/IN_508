@@ -1,13 +1,10 @@
 
 
 
-public class Fraction()
-{
-	Fraction()
-    {
-        System.out.println("Fraction");
-    }
+public class Fraction{ 
+
+   public static void test() {
+      System.out.println(Integer.toString(12)); 
+   }
 }
-
-
 
